@@ -1,7 +1,7 @@
 # Calculator
 ### A simple, digital tool for everyday calculations
 
-<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/6daf587e-08af-4888-967c-7b53174a5ebc" />
+<img width="1222" height="864" alt="Cover" src="https://github.com/user-attachments/assets/775b7db8-96f6-4d3b-984b-7286f74f71ad" />
 
 ---
 
@@ -18,9 +18,10 @@ A desktop calculator developed in Java using Swing, with support for:
 
 ## Screenshots
 
-<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/13529007-5984-47c7-b8e4-2ff232effede" />
+<img width="1222" height="864" alt="Screenshot 1" src="https://github.com/user-attachments/assets/13529007-5984-47c7-b8e4-2ff232effede" />
 
-<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/dd111247-8f4d-4c1d-808a-c07df40124d0" />
+<img width="1222" height="864" alt="Screenshot 2" src="https://github.com/user-attachments/assets/dd111247-8f4d-4c1d-808a-c07df40124d0" />
+
 ---
 
 ## About the developer
@@ -35,13 +36,19 @@ This project reflects that approach.
 
 ## Contact
 
-**Email:** brunomanjate2@gmail.com
-**Phone:** +258 84 560 3981
-**LinkedIn:** [Bruno Manjate](https://www.linkedin.com/in/bruno-f-manjate-150089241)
-**Location:** Maputo, Mozambique
----
+If this project makes sense for your work — or if you have an idea you would like to bring to life — let us talk.
 
-<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/824744fe-ef86-42de-bf2c-68a59c5facd7" />
+I am available for collaboration, consulting, and custom software development. Every project starts with a conversation.
+
+**Email:** brunomanjate2@gmail.com
+
+**Phone:** +258 84 560 3981
+
+**LinkedIn:** [Bruno Manjate](https://www.linkedin.com/in/bruno-f-manjate-150089241)
+
+**Location:** Maputo, Mozambique
+
+<img width="1222" height="864" alt="Screenshot 3" src="https://github.com/user-attachments/assets/824744fe-ef86-42de-bf2c-68a59c5facd7" />
 
 ---
 
